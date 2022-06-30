@@ -1,1 +1,4 @@
-# invoice-processing-system
+# Invoice Processing System
+## SOURITA PODDAR (1CR18CS162)
+SRADDHA CHALLAGUNDLA (1CR18CS164)
+SUHAS S REDDY (1CR18CS165)
